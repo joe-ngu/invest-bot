@@ -1,0 +1,10 @@
+# python optimization files
+__pycache__
+
+# environment
+.env
+venv/
+
+# logs
+logs/
+*.log

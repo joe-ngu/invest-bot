@@ -1,0 +1,9 @@
+python-dotenv
+
+lumibot
+timedelta
+alpaca-trade-api
+
+langchain
+langchain_community
+gpt4all
